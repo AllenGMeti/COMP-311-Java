@@ -1,7 +1,7 @@
 /*
 *Allen G Meti
 *24019726
-*Lab 1 Question 7
+*Lab 1 Question 10
 */
 
 //Importing Scanner
