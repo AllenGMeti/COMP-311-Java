@@ -8,20 +8,20 @@
 import java.util.Scanner;
 
 public class Question_3 {
- public static void main(String[] args) {
- Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
- //Prompting and reading user input
- System.out.print("Enter your name: ");
- String name = sc.nextLine();
- 
- System.out.print("Enter your age: ");
- int age = sc.nextInt();
+        // Prompting and reading user input
+        System.out.print("Enter your name: ");
+        String name = sc.nextLine();
 
- //Printing user input 
- System.out.println("Hello " + name + "! In five years, you will be " + (age + 5));
+        System.out.print("Enter your age: ");
+        int age = sc.nextInt();
 
- sc.close();
+        // Printing user input
+        System.out.println("Hello " + name + "! In five years, you will be " + (age + 5));
 
- }
+        sc.close();
+
+    }
 }
