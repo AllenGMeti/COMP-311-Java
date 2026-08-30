@@ -1,7 +1,7 @@
 /*
  *Allen G Meti
  *24019726
- *Lab 1 Question 1 
+ *Lab 1 Question 1
  */
 
 public class Question_1 {
