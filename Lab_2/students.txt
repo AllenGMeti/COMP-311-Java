@@ -1,0 +1,5 @@
+Allen Meti,100
+Meti Allen,90
+Goabaone Meti,70
+Meti Goabaone,50
+Junior Meti,10
