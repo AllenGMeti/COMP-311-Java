@@ -16,7 +16,7 @@ public class Question_3 {
             int smallest = numbers[0];
             int largest = numbers[0];
 
-            // Process array
+            // Processing array
             for (int i = 0; i < numbers.length; i++) {
 
                 sum += numbers[i];
@@ -30,7 +30,7 @@ public class Question_3 {
                 }
             }
 
-            // Write results to file
+            // Writing results to file
             PrintWriter writer = new PrintWriter("results.txt");
 
             writer.println("Sum: " + sum);

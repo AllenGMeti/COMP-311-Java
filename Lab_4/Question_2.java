@@ -1,7 +1,7 @@
 /*
  * Allen G Meti
  * 24019726
- * Lab 4 Question 1
+ * Lab 4 Question 2
  */
 
 import java.io.PrintWriter;
