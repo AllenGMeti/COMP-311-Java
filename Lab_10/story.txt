@@ -1,0 +1,9 @@
+Week 7 Shenanigans
+Monday = Test
+Tuesday = Filler episode
+Skips Java lecture
+Wednesday = Nuked with Test
+Thursday = Traumatized by networks
+Friday = Get revenge on forensics, rest(jks)
+Saturday = Java lab 7
+Sunday = Forensics lab 
